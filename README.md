@@ -33,3 +33,4 @@ cd finm3422
 
 Student: Hifza successfully cloned the repo
 
+Student Oscar successfully cloned the repo.
